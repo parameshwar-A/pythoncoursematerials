@@ -11,7 +11,6 @@
 	- Stdin 
 	- Stdout
 	- Fun with print
-	- Processing input 
 ## How to get help ?
 	- help()
 	- Where to look 
@@ -21,7 +20,6 @@
 ## Variables
 	- What are variables?
 	- Conventions to name a variable
-	- Scope
 ## Basic data types
 	- Int
 	- Float
@@ -88,6 +86,7 @@
 	- function defenition
 	- Recursion in function
 	- Modularity
+	- Scope
 ## Working with modules
 	- What are modules ?
 	- How to use them ?

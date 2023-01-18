@@ -1,7 +1,8 @@
 # Python
 
-## Founded by Van Rossum
+## Founded by [Guido Van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum)
 
+- Another language used to talk with computers
 - It is a general purpose language
 - Open source 
 - Since open source we have the largest library of packages and frameworks

@@ -2,6 +2,7 @@
 
 ## The Standard input is the shell input 
 
-- Python standard input is very simple it is only "print"
+- Python standard input is very simple it is only "input"
 - It has few additional options too
-- Like where to print, what to place after you print
+- It takes the input until enter is pressed
+
