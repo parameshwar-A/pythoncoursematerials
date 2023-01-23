@@ -4,6 +4,7 @@
 - It can contains number (0-9) but you cannot start a name with numbers
 - It should only conains alphabets(a-z A-Z), numbers(0-9) or _
 - Variables are case sensitive (pi_vaue and Pi_value are different)
+- It should not be existing reserved name of the python language
 
 ## Few sample of correct variable names
 - myName

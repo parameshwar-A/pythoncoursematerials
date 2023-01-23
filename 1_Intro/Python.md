@@ -11,6 +11,7 @@
 ## Some use case
 - Automation
 - Best for scripting
+- Even in space and Now in MARS python is used
 - Cyber exploits
 - Web development
 - DevOps Integration

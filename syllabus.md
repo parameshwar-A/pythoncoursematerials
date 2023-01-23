@@ -17,19 +17,14 @@
 ## The best bible for python
 - Reading the documentations
 - Getting useful info from docs
-## Variables
-- What are variables?
-- Conventions to name a variable
 ## Basic data types
 - Int
 - Float
 - Boolean
 - String
-## Type casting
-- int()
-- float()
-- bool()
-- str()
+## Variables
+- What are variables?
+- Conventions to name a variable
 ## Operations
 ### Arithmetic Operators
 - Addition
@@ -52,6 +47,11 @@
 - >=
 - <=
 - !=
+## Type casting
+- int()
+- float()
+- bool()
+- str()
 - is & in Operators
 ## Working with strings
 - Indexing

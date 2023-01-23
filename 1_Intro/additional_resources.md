@@ -1,0 +1,5 @@
+# Additional resources (Not mandatory but if you are interested!)
+* [Wikipedia-Python](https://en.wikipedia.org/wiki/Python_(programming_language))
+* [History of python](https://www.geeksforgeeks.org/history-of-python/)
+* [Video - Hisotory of python](https://www.youtube.com/watch?v=J0Aq44Pze-w)
+* [Python on Mars](https://learnpython.com/blog/python-on-mars/)
