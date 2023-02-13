@@ -14,17 +14,16 @@
 ## How to get help ?
 - help()
 - Where to look 
-## The best bible for python
-- Reading the documentations
-- Getting useful info from docs
 ## Basic data types
 - Int
 - Float
 - Boolean
 - String
-## Variables
-- What are variables?
-- Conventions to name a variable
+## Type casting
+- int()
+- float()
+- bool()
+- str()
 ## Operations
 ### Arithmetic Operators
 - Addition
@@ -47,12 +46,15 @@
 - >=
 - <=
 - !=
-## Type casting
-- int()
-- float()
-- bool()
-- str()
-- is & in Operators
+### is & in Operators
+- is
+- in
+## Variables
+- What are variables?
+- Conventions to name a variable
+## The best bible for python
+- Reading the documentations
+- Getting useful info from docs
 ## Working with strings
 - Indexing
 - Slicing
