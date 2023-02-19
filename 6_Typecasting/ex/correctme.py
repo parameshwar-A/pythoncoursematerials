@@ -1,5 +1,5 @@
 import datetime
 
-birth_year = int(input("Enter your birth year:"))
+birth_year = input("Enter your birth year:")
 
 print("Your Age is : ", datetime.date.today().year-birth_year) 

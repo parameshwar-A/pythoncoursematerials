@@ -18,7 +18,7 @@ operators are used to perform specified operations.
 ## Logical 
 - Used for boolean data type 
 - performs bitwise operations too. 
-- Mostly logic gate operations like (AND, OR, !)
+- Mostly logic gate operations like (AND, OR, NOT)
 
 ***
 
