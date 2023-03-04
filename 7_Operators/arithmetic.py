@@ -12,11 +12,11 @@ print(True+False)
 print("a"+"b")
 
 #Subraction
-print(10-5)
+#print(10-5)
 
-print(5-10)
+#print(5-10)
 
-print(False-True)
+#print(False-True)
 
 #print("welcome"-"wel")
 
