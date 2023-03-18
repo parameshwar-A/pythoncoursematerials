@@ -11,7 +11,7 @@ pattern 1:
 pattern 2:
 
 one set : ##<char entered by user>##
-
+##@####@####@##
 Sample input: @
 	      2
 

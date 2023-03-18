@@ -61,7 +61,7 @@
 - Reversing
 - Methods in string
 ## Control structures
-- Flow
+- Flow/Sequential
 - Selective
 	- IF
 	- If else
@@ -116,6 +116,7 @@
 - POST
 - DELETE
 - PUT
+- Create a POSTMAN clone
 ## Introduction to OOPS
 - Need for OOPS
 - OOPS concept and application
