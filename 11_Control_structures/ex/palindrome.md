@@ -3,9 +3,10 @@
 ## Requirements
 - Check if the given string/number is Palindrome
 - What is the Palindrome?\
-  Both forward and reverse is same then it is a Palindrome
-  example: 121 is equal to 121\
-  	wow is equal to wow 
+  Both forward and reverse is same then it is a Palindrome\
+  example:
+- 121 is equal to 121
+- wow is equal to wow 
 
 ## steps
 - Get one input (string/number)

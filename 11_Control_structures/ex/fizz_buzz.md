@@ -4,7 +4,7 @@ Famous basic interview question
 ## Requirement
 Based on user input number print below items when respective condition satisfied
 
-###condition > required output
+### condition > required output
 - Divisible by 3 > Fizz
 - Divisible by 5 > Buzz
 - Divisible by both 3 and 5 > FizzBuzz

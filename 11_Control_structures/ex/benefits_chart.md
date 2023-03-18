@@ -29,8 +29,8 @@
 - Print the benefits based on operating system
 
 ## example
-sample input: pirated windows
-output:\
+sample input: pirated windows\
+output:
 - closed source
 - Slow
 - Download exe from internet for installing

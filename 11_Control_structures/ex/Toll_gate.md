@@ -16,15 +16,15 @@ GC - Govt.cars
 
 - Other vehicle input will be printed **Have to pay**
 
-other vehicle two letter repesentation can be 
-BK - Bikes
-MP - Mopeds
-CA - normal cars
-VA - Vans
-LR - Lorries
+other vehicle two letter repesentation can be\
+BK - Bikes\
+MP - Mopeds\
+CA - normal cars\
+VA - Vans\
+LR - Lorries\
 
 ## examples
-input: BK\ 
+input: BK\
 output: Have to Pay
 
 input: GC\

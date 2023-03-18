@@ -13,7 +13,7 @@
 input:\
 person_a = 10\
 person_b = 25\
-person_c = 60\
+person_c = 60
 
 output:\
 person_c is senior
