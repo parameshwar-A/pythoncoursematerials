@@ -14,7 +14,7 @@ print(1 > 2)
 # Greater than equal to (>=)
 print(1>=1)
 
-# Lesser than (<)
+## Lesser than (<)
 print(100<200)
 
 # Lesser than equal to (<=)

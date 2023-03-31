@@ -4,6 +4,6 @@
 
 - Run the python script, try to read and identify the issue
 
-- The error should be related to operators and data types.
+- The error should be related to type casting and data types.
 
 - Fix the issue based on what we learned so far

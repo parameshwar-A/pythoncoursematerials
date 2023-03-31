@@ -7,6 +7,7 @@
 - Print all alphabets
 - Cube of numbers upto the number given starting from 1
 - Sum of n natural numbers
+- Printing cubes under a limit
 
 ## Patterns printing
 - Triangle Right angled

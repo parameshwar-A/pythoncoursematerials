@@ -33,3 +33,9 @@ operators are used to perform specified operations.
 - There are many ways to simplyfy the syntax of assignment using these operators
 - operators like "=", "+=", "-=",....
 
+## Unary operators
+
+i++
+i--
+--i
+++i
