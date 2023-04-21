@@ -18,9 +18,10 @@ input = GoodDays
 length is 8 so the banner length should be 16
 
 output:
+
 @@@@@@@@@@@@@@@@\
 @@@@GoodDays@@@@\
-@@@@@@@@@@@@@@@@\
+@@@@@@@@@@@@@@@@
 
 
 
