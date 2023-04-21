@@ -5,13 +5,13 @@
 - You are given the characters equivalent, your job is to fix the secret characters with normal ones to read the normal message hidden
 
 ### characters map
-@ equals to a
-$ equals to s
-% equals to u
-\* equals to " " (space) 
-q equals to g
-x equals to n
-z equals to o
+@ equals to a\
+$ equals to s\
+% equals to u\
+\* equals to " " (space)\ 
+q equals to g\
+x equals to n\
+z equals to o\
 
 
 ## Steps
