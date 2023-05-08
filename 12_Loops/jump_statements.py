@@ -4,11 +4,12 @@
 # Continue - Helps in skipping
 # Break - Helps to break the loop (Quit prematurely)
 
-for item in range(10):
-    if item%2==0:
-        continue# skipping
-    print(item)
-    print()
+#for item in range(10):
+#    if item%2==0:
+#        continue# skipping
+#    print(item)
+#    print()
+#print("hello")
 
 for item in range(100):
     if item==50:

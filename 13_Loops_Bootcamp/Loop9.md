@@ -14,8 +14,10 @@ Enter the base length of the triangle: 5
 
 Sample output\
 
+```
 @ 
 @ @
 @ @ @ 
 @ @ @ @
 @ @ @ @ @
+```

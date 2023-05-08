@@ -3,7 +3,7 @@
 # Or we can rephrase when we need to continue is known 
 
 #count=0
-#while count<100:
+#while count<1000:
 #    count+=int(input("Enter amount: "))
 #print("The final count is: ", count)
 
@@ -16,7 +16,7 @@
 # You can also use know iterations problems to while too. 
 
 num=0 
-while num==10:
+while num<=10:
     print(num)
     num+=3
 

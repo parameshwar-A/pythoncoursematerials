@@ -1,13 +1,24 @@
 # For Loops
 # used when exact number of iteration is determined the start and stop
-#numbers=[1,2,3,4,5,6,7,8,9,10]
-for num in range(100, 0, -1 ):
+numbers=[1,2,3,4,5,6,7,8,9,10]
+
+#for num in numbers:
+#    print(num, end=" ") 
+#print("hello")
+
+for num in range(0, 101, 4):
     print(num)
 
 #print("parameshwar"[::20])
 #print(list(range(1,11)))
 
-#name_list=["nihaal","dhana", "paramesh", "ayaanar", "guhan"]
+name_list=["nihaal","dhana", "paramesh", "ayaanar", "guhan"]
+
+#for name in name_list:
+#    print(name)
+#
+#for index in range(0, len(name_list)):
+#    print(name_list[index])
 #
 #for letter in range(97,123):
 #    lower=chr(letter)
