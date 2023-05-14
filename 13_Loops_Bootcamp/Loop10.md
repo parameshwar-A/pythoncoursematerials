@@ -14,7 +14,9 @@ Enter the base length of the triangle: 4
 
 Sample output\
 
+```
    @ 
   @ @
  @ @ @ 
 @ @ @ @
+```

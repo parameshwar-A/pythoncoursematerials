@@ -21,7 +21,7 @@
 - Print a Big X
 - Side arrow
 - Pascal's triangle
-- Hollow triangle inscribed in a Rectangle
+- Hollow diamond inscribed in a Rectangle
 
 ## Data structure 
 - Print all elements in list

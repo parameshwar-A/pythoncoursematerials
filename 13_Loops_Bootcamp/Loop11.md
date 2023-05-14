@@ -1,23 +1,28 @@
-# Pattern Printing - Circle 
+# Pattern Printing - Big O
 
 ## Requirement
-- To print a circle based on the user Requirement of diameter
+- To print a Big O based on the user Requirement of width
 
 ## Steps
-- Get user input for the diameter of the circle 
-- Print the circle with the user specified diameter
+- Get user input for the width of the Big O 
+- Print the Big O with the user specified width
+
 ## Example:
 Sample input\
 
-Enter the diameter of the circle: 5
+Enter the width of the Big O: 5
 
 Sample output\
 
+```
+ @@@
+@   @
+@   @
+@   @
+ @@@
 
+```
 
-@        @
-  @    @
-     @
 
 
 
