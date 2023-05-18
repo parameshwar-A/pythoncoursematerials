@@ -92,9 +92,6 @@
 ## Working with modules
 - What are modules ?
 - How to use them ?
-	- What are functions ?
-	- function defenition
-	- Recursion in function
 - How can you create a module ?
 - Common modules
 	- OS
