@@ -36,21 +36,30 @@
 ### Assignment Operators
 - = operator
 - Working on the same item (+=...)
-###Logical Operators
+### Logical Operators
 - AND
 - OR 
 - NOT
-###Comparative Operators
+### Comparative Operators
 - >
 - <
 - ==
 - >=
 - <=
 - !=
-### is & in Operators
+### Bitwise Operators
+- And (&)
+- or (|)
+- not (~)
+- xor (^)
+- right shift (>>)
+- left shift (<<)
+### Identity Operators
 - is
+### Membership operator
 - in
 ### Operator precedence
+
 ## Variables
 - What are variables?
 - Conventions to name a variable
