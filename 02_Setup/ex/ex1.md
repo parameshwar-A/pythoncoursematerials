@@ -1,0 +1,2 @@
+- Check your python version now and install it if not installed
+- Install one text editor
