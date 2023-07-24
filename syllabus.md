@@ -1,3 +1,4 @@
+# Beginner
 ## Introduction to python
 - About python
 - Where it is used 
@@ -49,6 +50,7 @@
 ### is & in Operators
 - is
 - in
+### Operator precedence
 ## Variables
 - What are variables?
 - Conventions to name a variable
@@ -95,8 +97,10 @@
 - How can you create a module ?
 - Common modules
 	- OS
-	- Date time
-	- Math
+	- time
+	- math
+    - random
+    - sys
 - Getting modules using pip
 ## Working with other data source
 - Read & Writing 
@@ -106,6 +110,9 @@
 - Web input
 	- Connecting to API
 	- Web scraping
+
+# Intermediate 
+
 ## Creating an API (using fastAPI)
 - API basics
 - Working with methods
@@ -126,6 +133,11 @@
 - List comprehension
 - Dict comprehension
 - Set comprehension
+## Scope
+- Local
+- Enclosing
+- Global
+- Built-in
 ## Exception handling
 - Why do we need exception handling ?
 - Try and catch block

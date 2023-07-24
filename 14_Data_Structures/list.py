@@ -39,7 +39,7 @@ name_list.insert(0,"prakash")
 # Appending - Add the given element to end of the list
 #print("Before appending: ", name_list)
 ## Append takes exactly one argument
-#name_list.append("Tom Cruise") 
+name_list.append("Tom Cruise") 
 #
 #print("After appending: ", name_list)
 
