@@ -10,29 +10,29 @@ print("Input sentence 2: ",sentence_2)
 #print("Capitalize : ", sentence_1.capitalize())
 
 # casefold 
-#print("casefold: ", "ß".casefold())
-#print("lower: ", "ß".lower())
+# print("casefold: ", "ß".casefold())
+# print("lower: ", "ß".lower())
 
 # centre
-#print("centre: ", "word".center(20))
+# print("centre: ", "word".center(20))
 
 # count
-#print("count: ", sentence_1.count("l"))
+# print("count: ", sentence_1.count("l"))
 
 # Encoding is for storing and accessing data
-#tam_sent = "வணக்கம்"
+# tam_sent = "வணக்கம்"
 #
-#print(tam_sent.encode(encoding="utf-8"))
-#print(tam_sent.encode(encoding="utf-16"))
+# print(tam_sent.encode(encoding="utf-8"))
+# print(tam_sent.encode(encoding="utf-16"))
 
 # Endswith gives us bool if string endswith the given character.
 
-#print(sentence_1.endswith(("ILUGC","kanchiLUG")))
+# print(sentence_1.endswith(("ILUGC","kanchiLUG")))
 
 # Expand Tabs. Just to expand the tab size while presenting
 
-#tab_sentence = "Welcome\tGreat\tGood"
-#print(tab_sentence)
+# tab_sentence = "Welcome\tGreat\tGood"
+# print(tab_sentence)
 #print(tab_sentence.expandtabs(16))
 
 # Find 

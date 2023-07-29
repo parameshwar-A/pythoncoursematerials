@@ -1,47 +1,47 @@
-- capitalize
-- casefold
-- center
-- count
-- encode
-- endswith
-- expandtabs
-- find
-- format
-- format_map
-- index
-- isalnum
-- isalpha
-- isascii
-- isdecimal
-- isdigit
-- isidentifier
-- islower
-- isnumeric
-- isprintable
-- isspace
-- istitle
-- isupper
-- join
-- ljust
-- lower
-- lstrip
-- maketrans
-- partition
-- removeprefix
-- removesuffix
-- replace
-- rfind
-- rindex
-- rjust
-- rpartition
-- rsplit
-- rstrip
-- split
-- splitlines
-- startswith
-- strip
-- swapcase
-- title
-- translate
-- upper
-- zfill
+- [ ] capitalize
+- [ ] casefold
+- [ ] center
+- [ ] count
+- [ ] encode
+- [x] endswith
+- [ ] expandtabs
+- [x] find
+- [ ] format
+- [ ] format_map
+- [x] index
+- [x] isalnum
+- [x] isalpha
+- [x] isascii
+- [x] isdecimal
+- [x] isdigit
+- [x] isidentifier
+- [x] islower
+- [x] isnumeric
+- [x] isprintable
+- [x] isspace
+- [x] istitle
+- [x] isupper
+- [x] join
+- [ ] ljust
+- [x] lower
+- [ ] lstrip
+- [ ] maketrans
+- [ ] partition
+- [ ] removeprefix
+- [ ] removesuffix
+- [x] replace
+- [ ] rfind
+- [ ] rindex
+- [ ] rjust
+- [ ] rpartition
+- [ ] rsplit
+- [ ] rstrip
+- [x] split
+- [ ] splitlines
+- [x] startswith
+- [x] strip
+- [ ] swapcase
+- [ ] title
+- [ ] translate
+- [x] upper
+- [ ] zfill
