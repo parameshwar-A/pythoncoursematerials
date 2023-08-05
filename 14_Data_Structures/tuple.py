@@ -6,10 +6,15 @@
 
 # Tuple is very similar to list but tuple is immutable meaning you cannot add or remove elements after initial assignment.
 
-#scores = (1, 2, 3, 4, 1, 1)
-scores = tuple(range(0,9, 1))
+scores = (1, 2, 3, 4, 1, 1)
+#scores = ()
+#scores = tuple()
+#scores = tuple(range(0,9, 1))
+#scores = tuple(range(0,9, 1))
 #print(dir(scores))
-#print(type(scores))
+#print(scores.__doc__)
+#print(help(tuple))
+#print(scores)
 #print(scores)
 # See tuple syntax is different from list because tuple uses paranthesis not square brackets
 
@@ -17,12 +22,12 @@ scores = tuple(range(0,9, 1))
 
 # Count
 
-#print(scores.count(2))
+#print(scores.count("Hi"))
 
 # Returns a count of the particular value passed
 
 # Index - Returns the first index value of the element passed
-#print(scores.index(8))
+#print(scores.index(1))
 print(scores)
 print("Before list converstion", type(scores))
 

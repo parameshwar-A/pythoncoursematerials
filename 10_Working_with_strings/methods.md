@@ -1,12 +1,12 @@
-- [ ] capitalize
-- [ ] casefold
-- [ ] center
-- [ ] count
-- [ ] encode
+- [x] capitalize
+- [x] casefold
+- [x] center
+- [x] count
+- [x] encode
 - [x] endswith
-- [ ] expandtabs
+- [x] expandtabs
 - [x] find
-- [ ] format
+- [x] format
 - [ ] format_map
 - [x] index
 - [x] isalnum
@@ -22,26 +22,26 @@
 - [x] istitle
 - [x] isupper
 - [x] join
-- [ ] ljust
+- [x] ljust
 - [x] lower
-- [ ] lstrip
-- [ ] maketrans
-- [ ] partition
-- [ ] removeprefix
-- [ ] removesuffix
+- [x] lstrip
+- [x] maketrans
+- [x] partition
+- [x] removeprefix
+- [x] removesuffix
 - [x] replace
-- [ ] rfind
-- [ ] rindex
-- [ ] rjust
-- [ ] rpartition
-- [ ] rsplit
-- [ ] rstrip
+- [x] rfind
+- [x] rindex
+- [x] rjust
+- [x] rpartition
+- [x] rsplit
+- [x] rstrip
 - [x] split
-- [ ] splitlines
+- [x] splitlines
 - [x] startswith
 - [x] strip
-- [ ] swapcase
-- [ ] title
-- [ ] translate
+- [x] swapcase
+- [x] title
+- [x] translate
 - [x] upper
-- [ ] zfill
+- [x] zfill

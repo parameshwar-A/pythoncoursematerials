@@ -1,46 +1,45 @@
 # Boolean resulting methods
-
-setence = "hello there my number is 03"
+ 
+sentence = "get01"
 
 # Check if given input is alpha numeric
-print(sentence.isalnum())
+# print(sentence.isalnum())
 
 # Check if given input is alphabets
-print(sentence.isalpha())
+# print(sentence.isalpha())
 
 # check if given input is a valid ascii char
-print(sentence.isascii())
+# print("ம்".isascii())
 
 # check if given input is a decimal
-print(sentence.isdecimal())
+# print("1224432".isdecimal())
 
 # check if given input is a digit
-print(sentence.isdigit())
+# print("1.0".isdigit())
 
 # check if the given input is python identifier or not
-print(sentence.isidentifier())
+# print("print".isidentifier())
 
 # Returns true if the given string is in lower case
-print(sentence.islower())
+# print(sentence.islower())
 
 # Returns true if the given string only has numeric char
-print(sentence.isnumeric())
+# print("1.0".isnumeric())
 
 # check if the given string is printable or has some non-printable chars
-print(sentence.isprintable())
+# print("paramesh".isprintable())
 
 # check if the given string is space 
-print(sentence.isspace())
+# print("  ".isspace())
 
 # Return if the given string is formatted as title
-print(sentence.istitle())
+# print("The book".istitle())
 
 # Return true if the given string is upper case
-print(sentence.isupper())
+# print("HI".isupper())
 
 # Return true if the string startswith the mentioned string
-print(sentence.startswith("hell"))
+# print(" hello".startswith("hell"))
 
 # Return true if the string ends with the mentioned string
-print(sentence.endswith("welcome"))
-
+print("devil".endswith("vil"))

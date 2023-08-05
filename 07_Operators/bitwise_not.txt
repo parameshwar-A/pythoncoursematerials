@@ -1,0 +1,16 @@
++10010
+-01101
+2s complement = 1s complement + 1
+ 10010
+	 1
+-10011
+
+
++10111
+-01000
+2scomplement = 1s complement + 1
+  
+ 10111
+     1
+ 11000     
+ 

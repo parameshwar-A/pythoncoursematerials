@@ -1,5 +1,6 @@
 # Demo items for OS modules
 - chdir
+- listdir
 - mkdir
 - remove
 - rmdir
@@ -8,7 +9,6 @@
 - chmod
 - execv
 - kill
-- sys
 
 # Demo items for time modules
 - time
