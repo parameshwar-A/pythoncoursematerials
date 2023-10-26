@@ -2,27 +2,31 @@
 # used when exact number of iteration is determined the start and stop
 numbers=[1,2,3,4,5,6,7,8,9,10]
 
-#for num in numbers:
-#    print(num, end=" ") 
-#print("hello")
+# for num in numbers:
+   # print(num) 
+# print("hello")
 
-for num in range(0, 101, 4):
-    print(num)
+# for num in range(0, 101,5):
+    # print(num)
 
-#print("parameshwar"[::20])
-#print(list(range(1,11)))
 
-name_list=["nihaal","dhana", "paramesh", "ayaanar", "guhan"]
+# #print("parameshwar"[::20])
+# #print(list(range(1,11)))
 
-#for name in name_list:
-#    print(name)
+# name_list=["nihaal","dhana", "paramesh", "ayaanar", "guhan"]
+
+# for name in name_list:
+   # print(name)
 #
 #for index in range(0, len(name_list)):
 #    print(name_list[index])
 #
-#for letter in range(97,123):
-#    lower=chr(letter)
-#    print(lower, lower.upper())
+# "abcdef"
+# ord("a")
+# chr(97)
+for letter in range(97,123):
+   lower=chr(letter)
+   print(lower)
 #
 # Let's take a deep look
 
@@ -37,3 +41,10 @@ name_list=["nihaal","dhana", "paramesh", "ayaanar", "guhan"]
 #range(start, stop, step) Default step size is 1
 #for num in range(0,10,2):
 #    print(num)
+
+# for letter in "paramesh":
+	# print(letter)
+
+
+
+

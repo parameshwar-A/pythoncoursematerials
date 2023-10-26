@@ -1,5 +1,5 @@
 
-place=10
+place=2
 
 if place==1:
     print("Gold!!")

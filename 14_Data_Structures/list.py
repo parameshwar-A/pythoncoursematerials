@@ -6,8 +6,9 @@
 
 name_list = ["paramesh", "Vijay", "Ajith", "Tom Hanks", "Robert Downey Jr"]
 
-#name_list[0] = "Prakash"
-name_list.insert(0,"prakash")
+# name_list[0] = "Prakash"
+
+# print(name_list)
 #print(f"Welcome {name_list[0]}")
 #print(f"Welcome {name_list[1]}")
 # The above is a list of names, in real time scenarios we encounter list of items every now and there.
@@ -16,11 +17,11 @@ name_list.insert(0,"prakash")
 
 # Since they are iterable they are well worked with loops. So you can easily use it with loops
 
-#for name in name_list:
-#    print(f"Welcome {name}!")
+# for name in name_list:
+    # print(f"Welcome {name}!")
 
-#for ind in range(0, len(name_list)):
-#    print(f"Welcome {name_list[ind]}")
+# for ind in range(0, len(name_list)):
+   # print(f"Welcome {name_list[ind]}")
 
 # Lists in python don't have to contain same data types, I mean a single in python can have all variety of data types as elements
 
@@ -34,30 +35,31 @@ name_list.insert(0,"prakash")
 
 # Methods associated with List
 
-#print(dir(str))
+# print(dir(list))
 
 # Appending - Add the given element to end of the list
-#print("Before appending: ", name_list)
+# print("Before appending: ", name_list)
 ## Append takes exactly one argument
-name_list.append("Tom Cruise") 
+# name_list.append("Tom Cruise") 
 #
-#print("After appending: ", name_list)
+# print("After appending: ", name_list)
 
 
 # Count - Returns the count of element in a list
 product_list = [1000, 1100, 1200, 1100, 3000, 3200, 1100]
+# print(product_list.count(1700))
 #print("Count of 1000: ", product_list.count(1000))
 
 
 # Clear - Removes all items from the list ( Can be used to reset the list)
-#print("Product list before clear: ", product_list)
-#product_list.clear()
-#print("Product list after clear: ", product_list)
+# print("Product list before clear: ", product_list)
+# product_list.clear()
+# print("Product list after clear: ", product_list)
 #
 # Reverse the order of the elements in the list
-#print("Normal name list: ", name_list)
-#name_list.reverse()
-#print("name list after Reverse: ", name_list)
+# print("Normal name list: ", name_list)
+# name_list.reverse()
+# print("name list after Reverse: ", name_list)
 
 #name_list.append(["Hawk eye", "Natasha", "Dr.Banner"])
 #print("after append", name_list)
@@ -65,56 +67,61 @@ product_list = [1000, 1100, 1200, 1100, 3000, 3200, 1100]
 
 # extent - Used to extend multiple items to the list
 name_list.extend(["Hawk eye", "Natasha", "Dr.Banner"])
-#name_list.extend("Hawk eye")
-#print("After Extend :", name_list)
-#print(name_list[8])
+# name_list.extend("Hawk eye")
+# print("After Extend :", name_list)
+# print(name_list[5])
 
 # index - Used to find the index of the element. Basically a find function
 
-#print(name_list.index("Natasha"))
+# print(name_list.index("Vijay"))
+# print(name_list[3])
 
 
 # Insert - Used to insert a element to particular location
 #print("Name list before insert: ", name_list)
-name_list.insert(7, "Wanda")
+# name_list.insert(7, "Wanda")
 #print("Name list after insert: ", name_list)
 #print(name_list.index("Natasha"))
 # Due to inserting items in a particular location others are shifted towards right
 
 # pop - Used to pop  the last element and return it to the user
 #
-#print("Popped element: ", name_list.pop())
-#print("Name list after poping: ", name_list)
+# mypoped=name_list.pop()
+# print("Popped element: ", name_list.pop())
+# print("Name list after poping: ", name_list)
 #
 # Remove - Used to remove a particular element
-#print(name_list.remove("Natasha"))
-#print("Name list after removing: ", name_list)
+# print(name_list.remove("Ajith"))
+# print("Name list after removing: ", name_list)
 
 # Sort
-#name_list.sort(reverse=True)
+# name_list = ["paramesh",1,"dhana",3]
+
+# name_list.sort(reverse=True)
 #print(help(name_list.sort))
-#print("Sorted list: ", name_list)
+# print("Sorted list: ", name_list)
 
 # copy - Used to create a copy of a list
 # Call by reference
-#first_copy = name_list
-#print("Popped element: ", first_copy.pop())
-#print("First copy: ", first_copy)
-#print("Name List: ", name_list)
+first_copy = name_list
+# print(first_copy, name_list)
+# print("Popped element: ", first_copy.pop())
+# print("First copy: ", first_copy)
+# print("Name List: ", name_list)
 
-#second_copy = name_list.copy()
-#print("Popped element: ", second_copy.pop())
-#print("second copy: ", second_copy)
-#print("Name List: ", name_list)
+second_copy = name_list.copy()
+print("Popped element: ", second_copy.pop())
+print("second copy: ", second_copy)
+print("Name List: ", name_list)
 
 #
 
-data=2
-value=data
-print(data, value)
+# data=2
+# value=data
+# print(data, value)
 
-value=3
-print(data, value)
+# value=3
+# print(data, value)
 
 
 

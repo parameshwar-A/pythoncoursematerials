@@ -43,15 +43,15 @@
 - choice
 - choices
 - shuffle
-- seed
-- triangular
-- uniform
+
+# collections module 
+- Deque
 
 # Demo items for sys
 - stdin
 - stderr
 - stdout
-- ps1
+- argv 
 - ps2
 - path
 - modules

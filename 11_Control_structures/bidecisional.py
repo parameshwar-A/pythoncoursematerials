@@ -1,10 +1,10 @@
 
-is_traditional=False
+is_traditional=True
 
 if is_traditional:
     print("Veeti")
     print("Silk shirt")
-
+    
 else:
-    print("Formals")
-    print("Shoes")
+	print("Formals")
+	print("Shoes")

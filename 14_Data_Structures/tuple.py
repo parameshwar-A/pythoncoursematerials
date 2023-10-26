@@ -8,10 +8,14 @@
 
 scores = (1, 2, 3, 4, 1, 1)
 #scores = ()
+# print(scores, type(scores))
+names = ["paramesh", "arun", "paramesh"]
+
 #scores = tuple()
-#scores = tuple(range(0,9, 1))
-#scores = tuple(range(0,9, 1))
-#print(dir(scores))
+# scores = tuple(range(0,9, 1))
+#print(scores, type(scores))
+scores = tuple(range(0,9, 1))
+print(dir(scores))
 #print(scores.__doc__)
 #print(help(tuple))
 #print(scores)
@@ -22,12 +26,12 @@ scores = (1, 2, 3, 4, 1, 1)
 
 # Count
 
-#print(scores.count("Hi"))
+# print(scores.count(1))
 
 # Returns a count of the particular value passed
 
 # Index - Returns the first index value of the element passed
-#print(scores.index(1))
+# print(scores.index(5))
 print(scores)
 print("Before list converstion", type(scores))
 
