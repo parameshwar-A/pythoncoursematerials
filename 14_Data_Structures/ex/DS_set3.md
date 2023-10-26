@@ -1,10 +1,9 @@
-# Common natural ingredients
+# unique ingredient finder
 
-## Scenario
-- You work for a bakery client, they ask you to find their most commonly used natural ingredients among thier two signature dishes (cake and pie)
-- Your tasks is to find the common ingredients in both dishes and make sure those should not be artificially created.
+## Scenario 
+- This scenario is same for the bakery client you worked previously
+- Now the requirement is to list out all unique ingredients used for making a cake 
+- But we need to report only natural unique ingredients used for making a cake
 
-## Usage
-- User ingredients.py file for the datasets.
-- It will have 3 data sets: one for cake_ingredients, one for pie_ingredients and one for artificial created products
-
+## Usage 
+- Use same ingredients.py for data sets

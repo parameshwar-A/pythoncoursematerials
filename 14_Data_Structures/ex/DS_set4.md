@@ -1,9 +1,19 @@
-# unique ingredient finder
+# Employee of the month calculator
 
-## Scenario 
-- This scenario is same for the bakery client you worked previously
-- Now the requirement is to list out all unique ingredients used for making a cake 
-- But we need to report only natural unique ingredients used for making a cake
+## Scenario
+- You hired by a software company where your first project is to create a employee of a month calculator.
+- You have to design this software based on the criteria mentioned below.
+- As the company is gender equality focused one, they need one candidate from male and another from female who matches this criteria for EOM
 
-## Usage 
-- Use same ingredients.py for data sets
+### Criteria
+- person should be in the top performer list
+- person should be in the long hour workers
+- person should not be in the past 3 month client complaint list
+
+## Usage
+- Use eom.py file for data sets
+- You will have 7 datasets: one for top_performers, one for long_hour_workers, one for male employees, 3 individual monthly client_compliant list and final one for female workers.
+- Incase two or more male/female employees are eligible pick one random for each gender.
+
+
+
